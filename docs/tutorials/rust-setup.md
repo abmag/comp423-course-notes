@@ -59,6 +59,9 @@ This tutorial will guide you through setting up a Dev Container for Rust develop
 
 ## Step 4: Verify Rust Installation
 
+!!! info
+    make sure you run this command in the terminal that is inside the dev container or else it will not work!
+
 1. In the terminal, check the installed Rust version:
    ```bash
    rustc --version
